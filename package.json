@@ -1,3 +1,7 @@
 {
-  "packageManager": "yarn@3.2.0"
+  "name": "mono_repo_test",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
 }
