@@ -3,9 +3,7 @@
   "packageManager": "yarn@3.2.0",
   "workspaces": {
     "packages": [
-      "apps/admin",
-      "apps/ui",
-      "apps/core"
+      "apps/*"
     ]
   },
   "devDependencies": {
