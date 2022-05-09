@@ -1,6 +1,13 @@
 {
   "name": "mono_repo_test",
   "packageManager": "yarn@3.2.0",
+  "workspaces": {
+    "packages": [
+      "apps/admin",
+      "apps/ui",
+      "apps/core"
+    ]
+  },
   "devDependencies": {
     "typescript": "^4.6.4"
   }
